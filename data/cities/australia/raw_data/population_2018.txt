@@ -1,0 +1,96 @@
+Sydney 	5230330
+Melbourne 	4936349
+Brisbane 	2462637
+Perth 	2059484
+Adelaide 	1345777
+Gold Coast–Tweed Heads 	679127
+Newcastle–Maitland 	486704
+Canberra–Queanbeyan 	457563
+Sunshine Coast 	333436
+Wollongong 	302739
+Geelong 	268277
+Hobart 	232606
+Townsville 	180820
+Cairns 	152729
+Darwin 	148564
+Toowoomba 	136861
+Ballarat 	105471
+Bendigo 	99122
+Albury–Wodonga 	93603
+Launceston 	87382
+Mackay 	80148
+Rockhampton 	78592
+Bunbury 	74363
+Coffs Harbour 	71822
+Bundaberg 	70921
+Wagga Wagga 	56442
+Hervey Bay 	54674
+Mildura–Wentworth 	51903
+Shepparton–Mooroopna 	51631
+Port Macquarie 	47973
+Gladstone–Tannum Sands 	45130
+Tamworth 	42872
+Traralgon–Morwell 	41984
+Orange 	40493
+Bowral–Mittagong 	39887
+Busselton 	38921
+Dubbo 	38392
+Warragul–Drouin 	37928
+Geraldton 	37648
+Nowra–Bomaderry 	37420
+Bathurst 	36801
+Warrnambool 	35214
+Albany 	34205
+Devonport 	30297
+Kalgoorlie–Boulder 	29849
+Mount Gambier 	29639
+Lismore 	28720
+Nelson Bay 	28051
+Maryborough 	27282
+Burnie–Wynyard 	27174
+Alice Springs 	26534
+Victor Harbor–Goolwa 	26532
+Ballina 	26381
+Taree 	26381
+Morisset–Cooranbong 	25309
+Armidale 	24504
+Goulburn 	23835
+Whyalla 	21742
+Gympie 	21599
+Echuca–Moama 	21242
+Forster–Tuncurry 	21159
+Griffith 	20251
+Wangaratta 	19318
+St Georges Basin–Sanctuary Point 	19251
+Grafton 	19078
+Yeppoon 	19003
+Murray Bridge 	18779
+Mount Isa 	18588
+Camden Haven 	17835
+Broken Hill 	17734
+Moe–Newborough 	16812
+Karratha 	16708
+Horsham 	16514
+Batemans Bay 	16485
+Singleton 	16346
+Port Lincoln 	16326
+Ulladulla 	16213
+Bairnsdale 	15411
+Warwick 	15380
+Kempsey 	15309
+Sale 	15021
+Ulverstone 	14490
+Broome 	14445
+Port Hedland 	14320
+Port Pirie 	14188
+Emerald 	14119
+Port Augusta 	13799
+Lithgow 	12973
+Colac 	12547
+Mudgee 	12410
+Muswellbrook 	12364
+Esperance 	12145
+Parkes 	11224
+Swan Hill 	11103
+Portland 	10900
+Kingaroy 	10398

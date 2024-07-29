@@ -1,0 +1,107 @@
+1 	Melbourne 	Victoria 	4,929,201 	4,087,822 	+20.58%
+2 	Sydney 	New South Wales 	4,892,217 	4,240,340 	+15.37%
+3 	Brisbane 	Queensland 	2,545,882 	2,076,608 	+22.60%
+4 	Perth 	Western Australia 	2,205,223 	1,817,023 	+21.36%
+5 	Adelaide 	South Australia 	1,399,088 	1,245,896 	+12.30%
+6 	Gold Coast–Tweed Heads 	Queensland
+New South Wales 	716,186 	581,036 	+23.26%
+7 	Newcastle–Maitland 	New South Wales 	517,811 	453,265 	+14.24%
+8 	Canberra–Queanbeyan 	Australian Capital Territory
+New South Wales 	493,435 	405,032 	+21.83%
+9 	Sunshine Coast 	Queensland 	397,205 	303,824 	+30.74%
+10 	Central Coast 	New South Wales 	345,481 	314,941 	+9.70%
+11 	Wollongong 	New South Wales 	309,345 	281,700 	+9.81%
+12 	Geelong 	Victoria 	295,077 	227,957 	+29.44%
+13 	Hobart 	Tasmania 	231,707 	198,534 	+16.71%
+14 	Townsville 	Queensland 	184,313 	167,561 	+10.00%
+15 	Cairns 	Queensland 	158,178 	139,212 	+13.62%
+16 	Toowoomba 	Queensland 	146,955 	126,426 	+16.24%
+17 	Darwin 	Northern Territory 	135,982 	116,995 	+16.23%
+18 	Ballarat 	Victoria 	114,103 	93,470 	+22.07%
+19 	Bendigo 	Victoria 	103,733 	87,340 	+18.77%
+20 	Albury–Wodonga 	New South Wales
+Victoria 	98,607 	84,195 	+17.12%
+21 	Launceston 	Tasmania 	93,575 	86,051 	+8.74%
+22 	Mackay 	Queensland 	86,890 	79,683 	+9.04%
+23 	Rockhampton 	Queensland 	81,130 	78,598 	+3.22%
+24 	Bunbury 	Western Australia 	80,106 	67,860 	+18.05%
+25 	Bundaberg 	Queensland 	75,883 	69,095 	+9.82%
+26 	Coffs Harbour 	New South Wales 	75,016 	66,689 	+12.49%
+27 	Hervey Bay 	Queensland 	59,678 	49,835 	+19.75%
+28 	Wagga Wagga 	New South Wales 	57,368 	54,137 	+5.97%
+29 	Shepparton–Mooroopna 	Victoria 	54,280 	47,571 	+14.10%
+30 	Mildura–Buronga 	Victoria
+New South Wales 	53,948 	48,505 	+11.22%
+31 	Port Macquarie 	New South Wales 	51,154 	43,275 	+18.21%
+32 	Ballina 	New South Wales 	46,651 	40,674 	+14.69%
+33 	Gladstone 	Queensland 	46,400 	43,166 	+7.49%
+34 	Tamworth 	New South Wales 	44,947 	40,085 	+12.13%
+35 	Warragul–Drouin 	Victoria 	44,265 	30,287 	+46.15%
+36 	Traralgon–Morwell 	Victoria 	43,462 	40,609 	+7.03%
+37 	Busselton 	Western Australia 	42,786 	31,475 	+35.94%
+38 	Orange 	New South Wales 	42,351 	37,785 	+12.08%
+39 	Bowral–Mittagong 	New South Wales 	41,699 	36,266 	+14.98%
+40 	Dubbo 	New South Wales 	41,299 	35,281 	+17.06%
+41 	Geraldton 	Western Australia 	40,666 	36,884 	+10.25%
+42 	Nowra–Bomaderry 	New South Wales 	39,418 	34,604 	+13.91%
+43 	Bathurst 	New South Wales 	37,856 	33,754 	+12.15%
+44 	Albany 	Western Australia 	36,577 	31,791 	+15.05%
+45 	Warrnambool 	Victoria 	35,847 	33,020 	+8.56%
+46 	Devonport 	Tasmania 	32,757 	30,425 	+7.66%
+47 	Kalgoorlie–Boulder 	Western Australia 	30,443 	31,933 	−4.67%
+48 	Mount Gambier 	South Australia 	30,441 	28,279 	+7.65%
+49 	Victor Harbor–Goolwa 	South Australia 	29,428 	24,422 	+20.50%
+50 	Alice Springs 	Northern Territory 	28,922 	28,489 	+1.52%
+51 	Burnie–Somerset 	Tasmania 	28,648 	28,019 	+2.24%
+52 	Lismore 	New South Wales 	28,633 	29,294 	−2.26%
+53 	Morisset–Cooranbong 	New South Wales 	28,586 	22,644 	+26.24%
+54 	Nelson Bay 	New South Wales 	28,515 	26,116 	+9.19%
+55 	Maryborough 	Queensland 	28,010 	26,893 	+4.15%
+56 	Taree 	New South Wales 	26,666 	26,307 	+1.36%
+57 	Bacchus Marsh 	Victoria 	25,595 	17,488 	+46.36%
+58 	Goulburn 	New South Wales 	24,829 	22,202 	+11.83%
+59 	Armidale 	New South Wales 	24,155 	23,471 	+2.91%
+60 	Gympie 	Queensland 	23,162 	19,971 	+15.98%
+61 	Echuca–Moama 	Victoria
+New South Wales 	22,730 	19,659 	+15.62%
+62 	Gisborne 	Victoria 	22,543 	18,570 	+21.39%
+63 	Moe–Newborough 	Victoria 	22,022 	21,432 	+2.75%
+64 	Whyalla 	South Australia 	21,799 	22,471 	−2.99%
+65 	Yeppoon 	Queensland 	21,193 	16,815 	+26.04%
+66 	Forster–Tuncurry 	New South Wales 	20,976 	20,273 	+3.47%
+67 	Griffith 	New South Wales 	20,510 	18,683 	+9.78%
+68 	St Georges Basin–Sanctuary Point 	New South Wales 	20,292 	16,967 	+19.60%
+69 	Wangaratta 	Victoria 	19,942 	17,980 	+10.91%
+70 	Grafton 	New South Wales 	19,431 	19,051 	+1.99%
+71 	Murray Bridge 	South Australia 	19,067 	17,071 	+11.69%
+72 	Mount Isa 	Queensland 	18,693 	21,417 	−12.72%
+73 	Camden Haven 	New South Wales 	18,633 	16,267 	+14.54%
+74 	Karratha 	Western Australia 	18,229 	17,007 	+7.19%
+75 	Batemans Bay 	New South Wales 	17,588 	16,352 	+7.56%
+76 	Broken Hill 	New South Wales 	17,567 	19,151 	−8.27%
+77 	Singleton 	New South Wales 	17,415 	16,730 	+4.09%
+78 	Ulladulla 	New South Wales 	17,196 	14,758 	+16.52%
+79 	Port Lincoln 	South Australia 	16,920 	15,621 	+8.32%
+80 	Horsham 	Victoria 	16,919 	16,099 	+5.09%
+81 	Port Hedland 	Western Australia 	16,580 	14,372 	+15.36%
+82 	Kempsey 	New South Wales 	16,013 	14,796 	+8.23%
+83 	Warwick 	Queensland 	15,901 	14,950 	+6.36%
+84 	Broome 	Western Australia 	15,774 	13,314 	+18.48%
+85 	Bairnsdale 	Victoria 	15,761 	13,458 	+17.11%
+86 	Medowie 	New South Wales 	15,532 	12,686 	+22.43%
+87 	Ulverstone 	Tasmania 	15,503 	14,739 	+5.18%
+88 	Sale 	Victoria 	15,303 	14,441 	+5.97%
+89 	Airlie Beach-Cannonvale 	Queensland 	15,141 	10,982 	+37.87%
+90 	Emerald 	Queensland 	14,639 	13,632 	+7.39%
+91 	Port Pirie 	South Australia 	14,214 	14,281 	−0.47%
+92 	Port Augusta 	South Australia 	14,130 	14,084 	+0.33%
+93 	Colac 	Victoria 	12,615 	11,981 	+5.29%
+94 	Mudgee 	New South Wales 	12,559 	10,832 	+15.94%
+95 	Esperance 	Western Australia 	12,536 	11,777 	+6.44%
+96 	Muswellbrook 	New South Wales 	12,405 	12,222 	+1.50%
+97 	Lithgow 	New South Wales 	12,367 	12,686 	−2.51%
+98 	Castlemaine 	Victoria 	11,329 	9,920 	+14.20%
+99 	Portland 	Victoria 	11,157 	10,894 	+2.41%
+100 	Swan Hill 	Victoria 	11,020 	10,610 	+3.86%
+101 	Byron Bay 	New South Wales 	10,869 	9,237 	+17.67%
+102 	Kingaroy 	Queensland 	10,779 	10,074 	+7.00%

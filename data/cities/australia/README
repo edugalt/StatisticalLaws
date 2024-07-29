@@ -1,0 +1,121 @@
+Data from the Australian Bureau of Statistics at the level of Significant Urban Areas (SUA). 
+
+Significant Urban Areas (SUAs) represent Urban Centres, or groups of Urban Centres, that contain population of 10,000 persons or more. They are based on Urban Centres and Localities (UCLs) and built from Statistical Areas Level 2 (SA2). This enables a wider variety of statistical data to be available on this geography including non-Census data such as Estimated Resident Population (ERP).o
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/significant-urban-areas-urban-centres-and-localities-section-state/significant-urban-areas#sua-design-criteria
+
+
+Data correspond to the 2021 Census, except the location of the SUA which seems to be pre-2011. The matching of the locations to the 2021 data failed in ~10% as the SUAs changed (names and number). The locations seem to be at the boarder of the SUA, typically far from the centroid or core of the population.
+
+
+1. table builder:
+ https://tablebuilder.abs.gov.au/
+
+Dowloaded 2023-6-22
+- age-by-SUA.csv, can compute total population for 2021
+- income-by-SUA.csv, weekly personal income for 2021, brackets
+- education-SUA.csv, education
+
+- top2021.csv, number of individuals at the top bracket in Income and Education, built manually from the two files above
+- 
+
+2. -SUA_2021_AUST.xlsx
+- SUA_association_2016_2021.xlsx 
+Area of Significant urban areas can be extracted
+
+Downloaded 2023-06-22 from
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files
+
+3. Locations of SUA
+- SUA_LatLong.xlsx
+
+
+
+* Australian buro of statistics,
+
+table builder:
+https://tablebuilder.abs.gov.au/
+
+Dowloaded 2023-6-22
+- age-by-SUA.csv, can compute total population for 2021
+- income-by-SUA.csv, weekly personal income for 2021, brackets
+- education-SUA.csv, education
+- top2021.csv, number of individuals at the top bracket in Income and Education, built manually from the two files above
+
+
+- SUA_LatLong.xlsx
+Location
+- SUA_Income_2011.xlsx
+- Income
+From table buildner(?), from the 2019 repository spatial cities
+
+
+-SUA_2021_AUST.xlsx
+- SUA_association_2016_2021.xlsx 
+Area of Significant urban areas can be extracted
+
+Downloaded 2023-06-22 from
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files
+
+
+
+--- Info on Significant Urban Areas (SUA) --
+
+Retrieved 2023-05-22
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/significant-urban-areas-urban-centres-and-localities-section-state/significant-urban-areas#sua-design-criteria
+
+
+
+Significant Urban Areas (SUAs) represent Urban Centres, or groups of Urban Centres, that contain population of 10,000 persons or more. They are based on Urban Centres and Localities (UCLs) and built from Statistical Areas Level 2 (SA2). This enables a wider variety of statistical data to be available on this geography including non-Census data such as Estimated Resident Population (ERP).
+SUA design criteria
+
+Significant Urban Areas are designed by combining one or more adjacent SA2s based on the following criteria:
+
+    SA2s containing an Urban Centre of 10,000 persons or more are considered to be Significant Urban Areas. Other SA2s containing Urban Centres within a 5 kilometre distance via sealed road of large Urban Centres can be aggregated into the same Significant Urban Area.
+    SA2s containing Urban Centres of 7,000 persons or more can be considered for classification as a Significant Urban Area if there are other Urban Centres within a 5 kilometre distance via sealed road and the combined population of the Urban Centres is over 10,000.
+    SA2s that are included in an SUA should all be within the same Labour Market as defined by the Greater Capital City Statistical Area (GCCSA) classification. The Statistical Areas Level 4 (SA4) of Newcastle, Lake Macquarie and Hunter (exc Newcastle) are considered the same Labour Market.
+    SUAs can cross state and territory borders.
+    SA2s that are not classed as being in an SUA are combined to form a Not in any Significant Urban Area region for each state and territory. Combined they cover all of the country without gaps or overlaps.
+
+SUA name criteria
+
+The key criteria for Significant Urban Area names are that they be:
+
+    meaningful
+    maximum of 50 characters
+    unique within Australia
+
+Significant Urban Areas that contain a single Urban Centre will be named after that Urban Centre, for example:
+
+    Alice Springs
+    Albany
+    Mount Gambier
+
+Significant Urban Areas that represent a combination of two or more Urban Centres will reflect the names of the Urban Centre(s) that contribute the greater population, for example:
+
+    Newcastle – Maitland
+    Victor Harbour – Goolwa
+
+Where a Significant Urban Area crosses a state or territory border it is named after the largest Urban Centre on each side, for example:
+
+    Gold Coast – Tweed Heads
+    Canberra – Queanbeyan
+
+Where a Significant Urban Area represents an identifiable region which contains multiple Urban Centres, it is named for that region, for example:
+
+    Central Coast
+    Sunshine Coast
+
+SUA coding structure
+
+Significant Urban Areas are identifiable by a unique 4-digit non-hierarchical code, with the first digit identifying the State or Territory. Significant Urban Areas which cross state boundaries are identified by the state or territory which contains the Urban Centre with the largest population in that Significant Urban Area. The regions representing those parts of a state or territory Not in a Significant Urban Area have codes ending in 000.
+
+The remaining three digits of Significant Urban Area codes are assigned alphabetically within each state and territory starting from 001. As a result, the codes used for Edition 3 Significant Urban Areas may not match those used previously as some names have change since Edition 2 (2016).
+SUA code and name examplesS/T	SUA	SUA name
+5	009	Perth
+3	007	Gold Coast - Tweed Heads
+8	000	Not in a Significant Urban Area (ACT)
+
+ 
+SUA changes
+
+Large urban areas and their populations are dynamic. They can grow, absorb nearby centres or decline. Consequently, Significant Urban Areas (SUAs) change between editions so that they continue to provide an effective statistical representation of these urban areas. Some examples of the way Significant Urban Areas can change are described below.

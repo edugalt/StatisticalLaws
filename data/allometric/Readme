@@ -1,0 +1,16 @@
+Information on the two datasets:
+
+1) mass-BMR.csv
+
+Table containing the mass (in grams) and basal metabolic rates (in Watts) for 1006 species. Each line is a species. The first column corresponds to the name of the Genera of the species, the second column corresponds to the name of the family of the species, the third column is the mass, and the fourth column is the basal metabolic rate. Data Extracted from Appendix 1 in
+
+Savage, V. M., J. F. Gillooly, W. H. Woodruff, G. B. West, A. P. Allen, B. J. Enquist, and J. H. Brown. “The Predominance of Quarter-Power Scaling in Biology.” Functional Ecology 18, no. 2 (2004): 257–82. https://doi.org/10.1111/j.0269-8463.2004.00856.x.
+
+The content of the relevant columns was copied to a spreasheet software and saved as "mass-BMR-Text.csv". The conversion of the entries to real numbers was done using the code in "convert-to-numbers.ipynb".
+
+2) bpm-lifespan.csv
+
+Table containing the lifespan, mass, and heart rates of 8 species (mammals). The first line in the table indicates quantity and units in which the values are measured. Extracted from Table S1 (mannually copied from PDF) in:
+
+Whittemore, Kurt, Elsa Vera, Eva Martínez-Nevado, Carola Sanpera, and Maria A. Blasco. “Telomere Shortening Rate Predicts Species Life Span.” Proceedings of the National Academy of Sciences 116, no. 30 (July 23, 2019): 15122–27. https://doi.org/10.1073/pnas.1902452116.
+
