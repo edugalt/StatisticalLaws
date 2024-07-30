@@ -1,8 +1,8 @@
-# Statistical Laws in Complex Systems
+#Statistical Laws in Complex Systems
 
-This repository contains the data and code used in the anlaysis of the results presented in the manuscript "Statistical Laws in Complex Systems". 
+This repository contains the data and code used in the anlaysis of the results presented in the manuscript "Statistical Laws in Complex Systems", arXiv:2407.19874 (2024), https://arxiv.org/abs/2407.19874. 
 
-## Folder Division:
+##Folder Division:
 
 data/
 datasets used in the analysis; Data on language needs to be downloaded from https://doi.org/10.5281/zenodo.13119897
@@ -14,7 +14,7 @@ src/
 source code used in the data analysis
 
 
-## Credit:
+##Credit:
 
 This repository builds on the ideas, code, and data provided in previous work:
 
